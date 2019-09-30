@@ -1,2 +1,2 @@
 #MyApp
-this is github testing
+this is myApp testing
